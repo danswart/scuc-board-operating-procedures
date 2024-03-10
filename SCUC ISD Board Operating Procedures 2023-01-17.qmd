@@ -1,0 +1,822 @@
+---
+title: "SCHERTZ-CIBOLO-UNIVERSAL CITY ISD BOARD OF TRUSTEES OPERATING PROCEDURES"
+date: today
+date-format: long
+format:
+  # html:
+  #  css:
+  #  - "swart-20240104.css"
+  #  - "tachyons.min.css"
+  #  - "r-colors.css"
+  #  lightbox: true
+  #  theme:
+  #   - swart.scss
+  #   - zephyr
+  #  mainfont: "Trebuchet"
+  #  fontsize: 18pt
+  #  includes:
+  #     in_header: header.html
+  #  self_contained: true
+  #  styles:
+  #   blockquote:
+  #     border-left: 5px solid #228B22
+  #     padding: 10px
+  #  linestretch: 1.0
+  #  code-link: true
+  #
+  #
+  # pdf:
+  #   latex_engine: xelatex
+  #   fig_caption: true
+  #   colorlinks: true
+  #   documentclass: scrreprt
+  #   papersize: letter
+  #   toc: true
+  #   mainfont: "Georgia"
+  #   fontsize: 16pt
+  #   includes:
+  #     in_header: latex/preamble.tex
+  #     before_body: latex/before_body.tex
+  #     after_body: latex/after_body.tex
+  #   include-in-header:
+  #     - file: dsheader.tex
+  #
+  #
+# revealjs:
+  #   smaller: true
+  #   scrollable: true 
+  #   chalkboard: true
+  #   multiplex: true
+  #   theme: default
+  #   reference-location: margin
+  #   logo: img/red-cross-640-435.png
+  #   footer: "Footer text"
+  #   code-block-height: 650px
+  #
+  #
+  docx:
+    highlight-style: github
+    fig_caption: true
+  #
+  #
+  # typst:
+  #   output-file: typst
+  #   output-ext: pdf
+css:
+  - "swart-20240104.css"
+  - "tachyons.min.css"
+  - "r-colors.css"
+editor: source
+knitr:
+  opts_chunk:
+    echo: false
+    error: false
+    warning: false
+    message: false
+    cache: false
+quarto:
+  render:
+    cache-refresh: true
+---
+
+
+## OVERVIEW
+
+In effective school systems, the Superintendent and the Board function as a “Team of Eight.” A structured approach to developing a vision for the District and setting goals is enhanced by first developing a system of standard operating procedures. The School Board is the corporate policy making body for the district and the Superintendent and staff provide the leadership to cause Board policies to be implemented. Therefore, the Schertz-Cibolo-Universal City ISD Board of Trustees and Superintendent function as a “Team of Eight” to provide open communication to the staff and patrons of the district, within a structure of “Good Governance.”
+
+## REVIEW OF BOARD OPERATING PROCEDURES
+
+The Board Operating Procedures will be reviewed and updated as necessary on an annual basis in January.
+
+## BOARD GOVERNANCE
+
+The SCUC ISD Board of Trustees is committed to a participative, process-driven Governance style. Board level
+decision-making processes shall therefore include the following elements to whatever extent is practical and
+appropriate for the matter at hand:
+
+  * Clearly stated objectives
+
+  * Reconciliation with policy and established practice
+
+  * Board approved parameters
+
+  * Timelines
+
+  * Data gathering
+
+  * Stakeholder input
+
+  * Communication plan
+
+In each instance, staff shall facilitate the process and make recommendations with oversight and decision-making
+authority retained by the Board. Examples of decisions that fall under this umbrella include, but are not limited
+to, curriculum, budget, school year calendar, attendance zone realignment and facilities needs assessments.
+
+It is the expectation of the Board that participative, process-driven decision-making should flow through the
+organization at each level as appropriate.
+
+## GOOD GOVERNANCE SELF CHECK
+
+On an annual basis and in conjunction with Team of 8 training, the Board of Trustees will conduct a Good
+Governance Self Check of the Board’s operation during the past year. Based upon data collected during the past
+year, the Board will review Board effectiveness. This data will include comparative practices of other Boards, as
+well as a review of the current operating procedures. A report of this evaluation will be presented within the next
+month to the public at a regularly scheduled meeting of the Board.
+
+* Good Governance Self Check [link](https://drive.google.com/file/d/0Bx48OqOMcV2SQ1VGeFVMR3R1X0E/view?resourcekey=0-MYa97DBIGlTjnOIyAiQPkg)
+
+* Good Governance Model [link](https://drive.google.com/file/d/0Bx48OqOMcV2SVjJqREJlTFRmbDA/view?resourcekey=0-n2P1Lt2Ssi_aWMDv7pX95w)
+
+
+## BOARD DUTIES/RESPONSIBILITIES
+
+The purpose of placing Governance in the hands of the Board and management in the hands of the
+Superintendent is to ensure the community retains authority over the basic direction, priorities, and values
+embodied in the operation of the District while also making sure implementation is carried out by a trained
+professional with a wide range of experience. It also ensures that the Board has the advice of someone well-
+versed in the immense complexity of school district operations.
+
+
+## DUTIES OF THE BOARD: GOVERN THE DISTRICT
+
+In order to govern effectively; the Board should not take action on an item without first hearing the
+recommendation from the Superintendent (with exception of action affecting his/her own employment or one or
+more individual Trustees). The Board is never obligated to accept the Superintendent’s recommendation, but
+frequent denial of recommendations signals the Board and Superintendent need to review priorities and
+procedures to make sure no misunderstandings or failures in communications have occurred. Individual Board
+members must refrain from confusing their role with the role of the Superintendent and becoming involved in
+the day-to-day operations of the schools.
+
+## DUTIES OUTLINED IN BOARD POLICY
+
+As per [Board Policy BAA (Legal)](https://pol.tasb.org/Policyonline/PolicyDetails?key=551&code=BAA#legalTabContent), [BBE (Legal)](https://pol.tasb.org/Policyonline/PolicyDetails?key=551&code=BBE#legalTabContent) and [BBE (Local)](https://pol.tasb.org/Policyonline/PolicyDetails?key=551&code=BBE#legalTabContent), essential duties of the Board as per the Education Code include but are not limited to:
+
+  1. Adopting goals and priorities for the District and monitoring success in achieving them.
+
+  2. Adopting policies that Govern the District and reviewing these policies for effectiveness.
+
+  3. Hiring a Superintendent to manage the District; evaluating the Superintendent’s effectiveness.
+
+  4. Adopting an annual budget for the District and setting a tax rate appropriate to fund it.
+
+  5. Monitoring student performance in achieving curriculum goals and assessing the recommendation of the
+Superintendent.
+
+  6. Appraise the Superintendent annually using either the Commissioner’s recommended appraisal process
+or a process and criteria developed by the District.
+Trustees are committed to pre-reading Board meeting materials and requesting additional information from the
+Superintendent, prior to the Board meetings, on agenda items they have questions about. This process also
+applies to information provided in weekly Board Transmittals.
+
+## BOARD ETHICS
+
+It is the expectation that all Trustees adhere to the Board Code of Ethics and strive to promote Ethical Behavior in
+the Governance structure, throughout the organization and in interactions with workforce, vendors and
+stakeholders.
+
+As a member of the Board, I shall promote the best interests of the District as a whole and, to that end, shall adhere to the following ethical standards:
+
+#### Equity In Attitude
+
+  * I will be fair, just, and impartial in all my decisions and actions.
+
+  * I will accord others the respect I wish for myself.
+
+  * I will encourage expressions of different opinions and listen with an open mind to others' ideas.
+
+#### Trustworthiness In Stewardship
+
+  * I will be accountable to the public by representing District policies, programs, priorities, and progress accurately.
+
+  * I will be responsive to the community by seeking its involvement in District affairs and by communicating its priorities and concerns.
+
+  * I will work to ensure prudent and accountable use of District resources.
+
+  * I will make no personal promise or take private action that may compromise my performance or my responsibilities.
+
+#### Honor In Conduct
+
+  * I will tell the truth.
+
+  * I will share my views while working for consensus.
+
+  * I will respect the majority decision as the decision of the Board.
+
+  * I will base my decisions on fact rather than supposition, opinion, or public favor.
+
+#### Integrity of Character
+
+  * I will refuse to surrender judgment to any individual or group at the expense of the District as a whole.
+
+  * I will consistently uphold all applicable laws, rules, policies, and Governance procedures.
+
+  * I will not disclose information that is confidential by law or that will needlessly harm the District if disclosed.
+
+#### Commitment To Service
+
+  * I will focus my attention on fulfilling the Board's responsibilities of goal setting, policymaking, and evaluation.
+
+  * I will diligently prepare for and attend Board meetings.
+
+  * I will avoid personal involvement in activities the Board has delegated to the Superintendent.
+
+  * I will seek continuing education that will enhance my ability to fulfill my duties effectively.
+
+#### Student-Centered Focus
+
+  * I will be continuously guided by what is best for all students of the District.
+
+## EVALUATION OF THE SUPERINTENDENT
+
+The Board of Trustees will conduct a Summative Evaluation of the Superintendent’s performance annually in
+January/February. This evaluation will be based upon a Superintendent Appraisal Instrument which is aligned to
+Board Policy and developed by the Board with input from the Superintendent. Data necessary to complete this
+review will be asked for at least one week prior to the review. The result of this review will be presented to the
+Superintendent the night of the evaluation. Annually in July, the Board of Trustees will conduct a Formative
+Evaluation of the Superintendent’s performance and progress toward attaining goals.
+
+For additional information, see Board Policies [BJCD (Legal)](https://pol.tasb.org/Policyonline/PolicyDetails?key=551&code=BJCD#legalTabContent) and [BJCD (Local)](https://pol.tasb.org/PolicyOnline/PolicyDetails?key=551&code=BJCD#legalTabContent)
+
+
+## DUTIES OF THE SUPERINTENDENT: MANAGE THE DISTRICT
+(Within the framework of Board policies and priorities)
+
+The Superintendent functions as the educational leader and chief executive officer of the District and is,
+throughout the exercise of responsibilities, accountable to the Board of Trustees. The education and
+administrative leadership responsibilities of the Superintendent are complementary and interdependent with the
+public leadership, Governance, and policymaking responsibilities of the Board.
+
+To avoid confusion and provide harmonious and progressive direction for the District, both Superintendent and
+Board must strive to keep the distinctions between their respective leadership roles clearly in mind (reference) 
+[Good Governance Model](https://drive.google.com/file/d/0Bx48OqOMcV2SQ1VGeFVMR3R1X0E/view?resourcekey=0-MYa97DBIGlTjnOIyAiQPkg).
+
+The essential duties of the Superintendent include but are not limited to:
+
+  1. Accepting administrative responsibility and leadership for the planning, operation, supervision, and
+evaluation of the education programs, services, and facilities of the district and for the annual
+performance appraisal of the district’s staff.
+
+  2. Accepting authority and responsibility for the assignment and evaluation of personnel and making
+recommendations for employment and termination of employees.
+
+  3. Preparing and submitting to the Board a proposed budget.
+
+  4. Recommending policies to the Board for adoption and developing administrative regulations to
+implement those policies.
+
+  5. Providing leadership for the attainment of student performance.
+
+  6. Ensure that Trustees have received, in a timely manner, all appropriate and pertinent data and
+information to make a well- informed decision.
+
+## BOARD MEETINGS
+
+### Placing Items on the Agenda:
+
+The Board will maintain an agenda planning calendar. The agenda is created by the Superintendent and Board
+executive committee approximately a week and a half before the Board meetings. Any two Board members may
+request through the Board President or Superintendent any item they wish to have placed on a future agenda. In
+reviewing the preliminary agenda before posting, the Board President shall ensure that any topics the Board or
+any two individual Board members have requested to be addressed are either on that agenda or are scheduled
+for deliberation at an appropriate time in the near future, not to exceed 60 days.
+
+In accordance with Texas open Meeting Act (TOMA), no agenda may be posted less than 72 hours in advance of a
+meeting, except in an emergency as per Texas Government Code. Each agenda item must be identified in
+sufficient detail that the general subject can be understood by the public, i.e. “__Request for Board Discussion and Action – Appointment of a District Rezoning Committee__”.
+
+### Posting Notice of Agenda:
+
+TOMA requires that the notice of a Board meeting be posted in a place “readily accessible” to the general public
+at all times. The SCUCISD notice of Board meetings is posted on an outside bulletin Board at the administration
+building at least seventy-two hours prior to the scheduled time of the meeting (at least two hours prior to the
+time of an emergency meeting). The notice of the meeting and agenda are posted on the website.
+
+### Board Packet:
+
+A packet is prepared each month for Board Members the week prior to the meeting. Along with the agenda, the
+packet includes documents that give a brief explanation of the items placed on the agenda. The packet may
+include financial statements, lists of bills payable, and other supporting data/explanatory documents so Board
+Members may have an opportunity to review the information before the meeting. If members have questions or
+concerns on any of these items, they are strongly encouraged to contact the Superintendent prior to the meeting
+in order to minimize confusion at the meetings. The agenda form is intended as a method to ensure organization
+and to conduct Board meetings in an efficient and timely manner.
+
+### Consent Agenda:
+
+Consent agenda items are routine items that may be acted on as a single item with one vote. These items may
+include but are not limited to annual contract renewals with Regions 13 & 20, Texas Education Agency items,
+budget amendments, financial information, and minutes of recent Board meetings. A Trustee may request an
+item be pulled for separate discussion at the scheduled meeting.
+
+### Items for Closed Session:
+
+Generally, personnel issues must be discussed in closed session, unless otherwise required by Texas open
+Meeting Act. The primary purpose behind a closed session for personnel matters is to protect the employee or
+student from possible unjustified harm to his/her reputation and to comply with the law. The provision for closed
+meetings applies only to deliberations concerning individual employees or students. TOMA requires that the
+subject matter of the closed meeting be set forth with sufficient particularity to notify the public of the matters under consideration. Merely stating that “litigation”, or “routine business,” will be discussed is insufficient. The
+agenda topic should be expanded/explained to give the interested reader a better idea of the issues to be
+discussed and decided. If a matter involves a class of employees, such as the salary of a group of employees, it
+should be deliberated in an open meeting. The Board can discuss only those items listed on the closed session
+agenda. Closed session discussions must remain confidential. No action may be taken during closed session. All
+action must be taken in open session.
+
+Records must be kept of closed meetings as well. The Board must keep a Certified Agenda during closed session
+unless the closed meeting was for the purpose of consulting with an attorney. Typically, this is the duty of the
+Board Secretary. Participation in a closed meeting knowing that a Certified Agenda or audio recording is not being
+kept constitutes a Class C Misdemeanor. Even though the certified agenda is confidential and can be inspected
+only by court order, sufficient detail should be included in the certified agenda so that a reasonable person
+reading the agenda would understand the scope and nature of the items discussed at the closed session. The
+certified agenda or audio recording must be maintained for two years following the meeting.
+
+
+### Closed Session – Confidentiality:
+
+Trustees participating in closed sessions must consider the following provisions related to confidentiality.
+
+  * Confidentiality of Closed Session Record.* Certified agendas and tape recordings of the closed portion of
+the meeting are confidential, available for public inspection and copying only under a court order. Texas
+Gov’t Code §§ 55.o21 and 551.10 4(c); Tex. Att’y Gen. No. JM-995 (1988).
+
+  * Confidentiality of other Closed Session Written Information.* Because of the nature of the Board’s work,
+Board members have a great deal of access to information that is confidential either temporarily or
+permanently. Until it is clear that a document reviewed or discussed in closed session is public, individual
+Board members have no authorization to release such documents. However, the fact that a document
+was shared and/or discussed in closed session does not protect it indefinitely. Rather, whether a
+document is confidential or public depends on the nature of the document itself. For example, an
+employee evaluation document is confidential by law permanently, while an application for a top-level
+job may be confidential only temporarily, until the position is filled or a certain period of time has
+expired.
+
+  * Confidentiality of Closed Session oral Discussions.* Closed sessions have the purpose of allowing Board
+members to have frank discussions without concern about an off-hand comment or sensitive topic being
+revealed and possibly result in legal or other problems. Many sensitive closed session discussions, such as
+those related to individual employees regarding job performance, or the information being discussed
+may be preliminary and is likely to change. Any discussion authorized to be discussed in closed session
+about information not yet available to the public or staff should be limited to that closed session until
+and unless final action is considered and taken.
+
+### Calling Meeting to Order:
+
+A quorum of Trustees, which is four of the seven members, must be present to conduct a Board meeting.
+
+### Voting:
+
+While the Board meetings are based on Robert’s Rules of order, the Board does observe parliamentary
+procedures for the voting process. only items listed on the agenda may be discussed at a Board meeting. All
+discussion shall be directed solely to the business currently under deliberation. The Board President has the responsibility to keep the discussion to the matter at hand and shall halt discussion that does not apply to the
+agenda item currently before the Board. The Board President will vote on all action items. The Board will clarify
+any specific criteria expected for staff reports. Agenda items listed as “Reports” are for discussion/briefing only
+and do not require a vote.
+
+### Public Comments – Regular Board Meetings:
+
+During regular Board Meetings, persons wishing to address the Board have the opportunity to do so during the
+“public comments” segment of the meeting by signing and making a request on the visitor registration sheet
+located inside the Board room. Public comments can be related to items on that meeting’s agenda or to non-
+agenda items.
+
+  * Agenda Items.* Every person who signed up in the appropriate time period may address the Board on an
+agenda item, prior to the Board’s discussion and/or consideration of the item. Each speaker is limited to
+three minutes.
+
+  * Non-Agenda Items.* Public comments on non-agenda items will be heard early in the Board meeting.
+Each speaker is limited to three minutes. A total of thirty minutes per meeting may be allowed for public
+comments for non-agenda items. If more than five persons wish to address the same non-agenda topic, a
+spokesperson may be asked to speak for the group for one three-minute period.
+
+If a member of the public asks a question about an item not listed on the published agenda, neither the Board
+nor the Superintendent may discuss the subject; however, the Superintendent or any member of the Board may
+respond by providing specific factual information, offering a recitation of existing policy, or by asking clarifying
+questions. Members may not discuss or deliberate the question.
+
+Board Policy BED (Legal) states:o “Citizens shall have the right, in a peaceable manner, to assemble together for
+their common good and to apply to those invested with the powers of Government for redress of grievances or
+other purposes, by petition, address, or remonstrance. Tex. Const. Art. I, Sec. 27”
+
+The Board strongly discourages inappropriate comments on individual personnel or students in public session.
+Complaints or concerns will be considered by the Board only after the complainant has followed the guidelines
+prescribed by the applicable policies, such as [DGBA (Local)](https://pol.tasb.org/PolicyOnline/PolicyDetails?key=551&code=DGBA#legalTabContent), [FNG (Local)](https://pol.tasb.org/PolicyOnline/PolicyDetails?key=551&code=FNG#legalTabContent), or [GF (Local)](https://pol.tasb.org/PolicyOnline/PolicyDetails?key=551&code=GF#legalTabContent).
+
+### Public Comments – Called Board Meetings:
+
+  * Agenda Items.* Similar to regular Board meetings, every person who signed up in the appropriate time
+period may address the Board on an agenda item, prior to the Board’s discussion and/or consideration of
+the item. Each speaker is limited to five minutes.
+
+  * Non-Agenda Items.* No public comments on non-agenda items will be during called Board meetings.
+
+#### Public Question/Answer Session – Public Hearing during Regular or Called Board Meeting:
+
+The public will be given the opportunity to make comments or ask questions following the presentation of
+information presented during a Public Hearing conducted during a regular or called Board meeting. The same
+procedures and time restraints apply as during a public comment session of a regular Board meeting, with the
+following exception:
+
+In the event Trustees and/or staff are requested to respond to a question pertaining to the information
+presented, an additional two minutes will be allotted, if necessary (for a total of 7 minutes), and the following
+guidelines will apply:
+
+  * The audience member will state a specific question.
+
+  * The Trustee and/or staff member will clarify the question, if necessary, and will answer as thoroughly as
+possible.
+
+  * The audience member will then be given an opportunity to ask for additional clarification.
+
+  * The Trustee and/or staff member will respond as thoroughly as possible.
+
+  * Following the second response, the Board President, or presiding officer, will call on the next audience
+member who has a comment/question, or will conclude the public question/answer session and proceed
+with the remainder of the Board meeting.
+
+## BOARD OFFICERS
+
+After the canvass of election returns the Board will reorganize and elect officers. In addition to that post-election
+selection of officers, the Board may also opt to reorganize at any other time. Elections are conducted in open
+session and by simple majority vote. officer positions are President, Vice President, Secretary, and Assistant
+Secretary.
+
+  * The Board President shall: Preside at all Board meetings, appoint committees, call special meetings, sign
+all legal documents required by law, and meet regularly with the Superintendent.
+
+  * The Vice-President shall act in capacity of President in the absence of the President.
+
+  * The Secretary shall act in the capacity of the President, in the absence of the President and Vice-
+President, assure pertinent documentation is recorded, and assist Board Members in maintaining
+required training hours.
+
+ * The Assistant Secretary shall act in the capacity of the Secretary in the absence of the Secretary and act in
+the capacity of President in the absence of the President, Vice-President, and Secretary.
+
+## BOARD LIAISONS TO DISTRICT COMMITTEES
+
+SCUC ISD empanels a number of community committees to advise the district on a number of important issues.
+Trustees are assigned as Board liaisons to these committees and serve in an ex officio capacity, listening to the
+conversation but not voting on any recommendations.
+
+The Board President shall gather feedback from Trustees regarding which committees each member would like to
+serve. The President will then assign members to two-year terms following the November Board elections (if
+any) in odd-numbered years.
+
+## BOARD-SUPERINTENDENT COMMUNICATION
+
+The Superintendent will meet regularly with the Board President and additional Board officers as appropriate to
+develop Board meeting agendas and as needed to discuss other issues. The Superintendent will communicate in
+a timely fashion with all Trustees including sending a weekly Board Transmittal outlining major events and
+progress being made toward district initiatives.
+
+## ROLE AND AUTHORITY OF INDIVIDUAL BOARD MEMBERS
+
+No Board Member is authorized to direct employees in regard to performance of duties.
+
+## BOARD TRAINING REQUIREMENTS
+
+The SCUC ISD Board of Trustees recognizes the value of Board member training and supports involvement by
+Board members in local, state and national affairs on behalf of the District and public education in general.
+
+New Board members shall, after they are sworn in, complete a District orientation within sixty days of the
+election or appointment with the Superintendent and a Board orientation with the Board President or
+appointee. Newly elected Trustees must receive 1 hour of training in the Texas open Meetings Act and Public
+Information Act within 90 days of their election or appointment. First year Trustees must have 10 hours training
+within the first year, which must include 3 hours of orientation in the Texas Education Code. Existing Trustees
+must receive 5 hours training per year prior to the December Board meeting. Any current Board member may
+attend or participate in the District orientation offered to new Board members.
+
+If Board members intend to seek reimbursement for costs associated with out-of-state or out of the ordinary
+training, conferences, presentations, or other training involvement, the Board member must obtain pre-approval
+by the Board of Trustees. The request and motion should include the dates and location of the event, the
+purpose and benefit to SCUC or public education in general, the estimated total dollar amount of costs, including
+registration, travel, lodging, etc. The Board member will provide a summary report to the Board of Trustees at
+the next regularly scheduled Board meeting.
+
+Unless approved in advance by the Board, no individual Trustee who has been censured by the Board or who has
+been found to have engaged in unethical practices, as determined by the Texas Ethics Commission, may
+represent the district at any Board training. Likewise, unless that Trustee requires specific training under state
+law and/or unless approved by the Board in advance, no district funds will be expended for costs associated with
+that Trustee’s Board training, conferences, presentations, or other similar involvement.
+
+our School District is a member of TASB (Texas Association of School Boards). Training opportunities are offered
+throughout the year, and Trustees are encouraged to attend. TASB offers the Leadership TASB course, a five
+session course conducted over five weekends throughout the year. Trustees are encouraged to apply for the
+opportunity to attend Leadership TASB but must have at least two years remaining on their term of service for
+the Board to authorize district expenditures for this course.
+
+\\
+[INSERT TRAINING REQUIREMENTS FOR SCHOOL Board MEMBERS HERE]
+\\
+
+## BOARD MEMBER TRAVEL PROCEDURES
+
+#### Registration Fees:
+
+ * It is the Board member’s responsibility to notify the district of any conference/workshop they will be
+attending.
+
+ * The district will complete any required paperwork and register Board member for the
+conference/workshop.
+
+ * Registration fees will be paid directly to the vendor by the district and are not a reimbursable expense.
+ 
+#### Lodging/Hotel:
+
+ * Lodging/hotel reservations shall be processed by the district and a Purchase card will be checked out to
+each Trustee for payment to the place of lodging or hotel.
+
+ * It is the responsibility of the Board member to ensure a Texas Hotel occupancy Tax Exemption Certificate
+is provided to the hotel.
+
+ * The Texas hotel tax exemption does not apply to out-of-state travel.
+
+ * An original itemized hotel receipt must be submitted to the district within thirty (30) days after return
+from a trip.
+
+### Estimated Travel Expenses:
+
+The district shall encumber funds for estimated reimbursement expenses prior to Board member travel.
+Estimated reimbursements include:
+
+ * Estimated mileage reimbursement (if driving)
+
+ * Estimated parking costs (if driving)
+
+ * Estimated cost of air travel (if flying)
+
+ * Estimated taxi/shuttle fees (if flying)
+
+ * Estimated per diem reimbursement (not to exceed regular district 
+reimbursement rates)
+
+It is the Board member’s responsibility to provide the district with the following information in order to calculate
+estimated reimbursement expenses:
+
+ * Name/location of workshop or travel destination.
+
+ * Dates of travel (date travel begins/ends)
+
+ * Mode of transportation (automobile/air travel)
+
+### Reimbursement Requests:
+
+It is the Board member’s responsibility to submit their reimbursement request within thirty (30) days following
+the completion of the trip.
+
+### Mileage Reimbursement:
+
+* For the purposes of reimbursement, mileage is calculated through Google Maps Driving Directions [(link)](https://www.google.com/maps/@29.5698432,-98.2482944,14z).
+
+* Mileage reimbursement rate will be calculated through the Texas Comptroller’s Website [(link)](https://fmx.cpa.texas.gov/fmx/travel/textravel/rates/current.php).
+
+* Board member mileage will be calculated (roundtrip) from the district’s central administration building,
+1060 Elbel Road, Schertz, TX 78154 to the destination.
+
+* For the purposes of reimbursement, mileage is reported using the shortest route, not the fastest or best
+route.
+
+* Toll road fees will not be reimbursed by the District.
+
+### Air Travel:
+
+* It is the responsibility of each Board member to secure their own airline reservations.
+
+* Air travel should be at the least expensive accommodations available for the flight.
+
+* Fees for special considerations such as priority check-in or seat upgrades will not be reimbursed.
+
+* Checked baggage fees will be reimbursed by the District for the initial (first) bag only, with original
+receipt.
+
+* Additional bags over the first or over weight limit fees will not be reimbursed.
+
+* Receipts for airfare must be presented with the request for reimbursement.
+
+* Mileage reimbursement for travel to and from the airport will be limited to the cost of round trip mileage
+from the district’s central administration building (1060 Elbel Rd., Schertz, TX 78154) to the San Antonio
+International Airport or Austin Bergstrom International Airport, regardless of the home departure
+location or what airport the trip originates from.
+
+### Board Member Meals:
+
+Board members are required to attach original, itemized restaurant receipts. The amount reimbursed is the
+actual amount of the receipts (not including sales tax and tip), but is limited to reimbursement rates for
+destinations as defined by the U.S. General Services Administration [(link)](https://www.gsa.gov/travel?gsaredirect=per-diem-rates-lookup&action=perdiems_report&state=TX&fiscal_year=2020&zip=&city=). Credit card receipts showing only a
+total amount of the charges will not be accepted for reimbursement.
+
+### Other Reimbursable Expenses:
+
+The following items may be reimbursed with an original receipt
+
+* Taxi/cab fares (must have receipt signed by cab driver)
+
+* Parking fees (limited to self-parking rates if valet parking is used)
+
+* Checked baggage fees for first bag only
+
+* Airline fare
+
+* Meals (limited to regular district meal reimbursement rates)
+Non-Reimbursable Expenses:
+
+### The following items will NOT be reimbursed:
+
+* Registration fees
+
+* Tips (including taxi/cab/valet parking/restaurants)
+
+* Phone calls and Internet usage
+
+* Alcoholic Beverages
+
+* Entertainment/Recreation, including in-room movies
+
+* Personal phone calls
+
+* Items being sold by vendors at conferences
+
+* Sales tax
+
+* Room services
+
+* Valet parking (unless there is no other reasonable parking option)
+
+* Texas State hotel tax
+
+* First class air fare
+
+* Checked baggage fees for additional bags over first
+
+* over weight limit baggage fees
+
+* Meals or any other expenses for other persons (such as spouse, children, etc.)
+
+* Personal Accident insurance or Personal Effects coverage for rental cars.
+
+* Early departure fees from a hotel
+
+* Fees for booking travel reservations online
+
+* Non-itemized taxes for Texas hotels
+
+* Mileage to and from restaurants
+
+* Mileage to and from hotel to conference
+
+* Toll road fees
+
+## BOARD POLICIES
+
+Legal policies are based upon State law and litigated cases; the Board does not approve these policies, but are
+obligated to adhere to them. Local policies are adopted by the Board prior to incorporation into the district policy
+manual. our policy manual is online and can be accessed via our Board of Trustees webpage, or here (link).
+
+### Important policies to know:
+
+* [DGBA (Legal)](https://pol.tasb.org/PolicyOnline/PolicyDetails?key=551&code=DGBA#legalTabContent) and [DGBA (Local)](https://pol.tasb.org/PolicyOnline/PolicyDetails?key=551&code=DGBA#legalTabContent) - PERSONNEL-MANAGEMENT RELATIONS EMPLOYEE
+COMPLAINTS/GRIEVANCES
+
+* [FNG (Legal)](https://pol.tasb.org/PolicyOnline/PolicyDetails?key=551&code=FNG#legalTabContent) and [FNG (Local)](https://pol.tasb.org/PolicyOnline/PolicyDetails?key=551&code=FNG#legalTabContent) - STUDENT RIGHTS AND RESPONSIBILITIES STUDENT AND PARENT
+COMPLAINTS/GRIEVANCES
+
+* [GF (Legal)](https://pol.tasb.org/PolicyOnline/PolicyDetails?key=551&code=GF#legalTabContent) and [GF (Local)](https://pol.tasb.org/PolicyOnline/PolicyDetails?key=551&code=GF#legalTabContent) - PUBLIC COMPLAINTS
+
+All three policies rely on the “Principal or Supervisor (Level I) – Superintendent or designee (Level II) – Board
+(Level III)” chain of command and resolution. A formal grievance procedure is used in which written complaints
+are filed first with the Principal or Supervisor, then the Superintendent if necessary. A presentation to the Board
+is the final step in the process.
+
+At times, individuals will bring complaints before the Board during the public comments portion of a meeting.
+The Board is under no obligation to hear such complaints before administrative remedies have been pursued. The
+Board President should direct the person to the appropriate complaint process. Level III complaints are heard in
+Board meetings as scheduled agenda items, which allow the Board to take action on the complaint during the
+same meeting.
+
+## ADDRESSING PUBLIC CONCERNS OUTSIDE OF THE BOARD ROOM
+
+Board Members are often confronted by individuals who wish to voice their concerns or complaints outside of
+the Board room. Trustees should listen to the individual’s concerns but politely explain the chain of command for
+addressing complaints and direct the individual to communicate concerns to the Superintendent.
+
+The Superintendent will then redirect the individual to the appropriate district employee. Most often when the
+individual understands who to request information from, he or she is able to resolve the issue without entering
+into the formal process. A Trustee should not get overly involved in a matter that may come before the Board as
+a complaint in order to preserve the Trustee’s unbiased judgment. An overly biased Trustee may need to recuse
+himself or herself from hearing the Level III grievance.
+
+### REQUEST(S) FOR INFORMATION FROM INDIVIDUAL BOARD MEMBERS:
+
+Board Members are entitled to the information they require to make informed decisions on the matters before
+them.
+
+### Request for Report/Discussion item:
+
+Policy [BBE (Local)](https://pol.tasb.org/PolicyOnline/PolicyDetails?key=551&code=BBE#legalTabContent) states: o“…REQUESTS FOR REPORTS - No individual Board member shall direct or require District employees to prepare reports derived from an analysis of information in existing District records or to create a new record compiled from information in existing District records. Directives to the Superintendent or other
+custodian of records regarding the preparation of reports shall be by Board action.”o
+
+Information requested from individual Board members will be shared with the entire Board. An individual Board
+member may ask to have requested information placed in a future Board Transmittal. All information falling in
+this category will be placed in the first available Board Transmittal following completion of the request by the
+administration.
+
+### Board Member Request for Records:
+
+An individual Board member, acting in the member’s official capacity, has the right to seek information pertaining
+to District fiscal affairs, business transactions, Governance, and personnel matters, including information that
+properly may be withheld from members of the public in accordance with the Public Information Chapter of the
+Texas Government Code.
+
+Policy [BBE (Local)](https://pol.tasb.org/PolicyOnline/PolicyDetails?key=551&code=BBE#legalTabContent) states: “…REQUESTS FOR RECORDS - An individual Board member shall seek access to records or
+request copies of records from the Superintendent or other designated custodian of records, who shall respond
+within the time frames required by law. When a custodian of records other than the Superintendent provides
+access to records or copies of records to an individual Board member, the provider shall inform the Superintendent
+of the records provided.”
+
+In accordance with law, the District shall track and report any requests under this provision, including the cost of
+responding to one or more requests by any individual Board member for 200 or more pages of material in a 90-day period.
+
+### The following guidelines will apply:
+
+* Individual Board member requests for records shall be submitted in writing to the Superintendent’s
+office.
+
+* These requests will be tracked and reported by the District on the District’s website and will be updated
+every 30 days.
+
+## BOARD MEMBER VISITS TO CAMPUSES AND DISTRICT FACILITIES
+
+Board Members are encouraged to attend all school events as their time permits. Board Members are not,
+however, to go unannounced into teachers’ classrooms or individual buildings for the purpose of evaluation.
+Board Members must adhere to all campus safety/registration requirements.
+Policy [BBE (Local)](https://pol.tasb.org/PolicyOnline/PolicyDetails?key=551&code=BBE#legalTabContent), states: “… VISITS To DISTRICT FACILITIES - A Board member shall adhere to any posted
+requirements for visitors to first report to the main office of a District facility, including a school campus. Visits
+during the school or business day shall not be permitted if their duration or frequency interferes with the delivery
+of instruction or District operations. [See also GKC]”
+
+## BOARD ADVOCACY
+
+School Boards have an important responsibility to advocate for the district within the community as well as with
+legislators and other elected officials.
+
+Any individual Trustee who has been censured by the Board or who has been found to have engaged in unethical
+practices, as determined by the Texas Ethics Commission, should not advocate for or represent the Board in any
+activities below, without the advance discussion of the appropriateness of the activity by the Board.
+
+## ADVOCACY ACTION PLAN
+
+### Advocacy within the Community:
+
+ * Trustees will advocate for the district within community, track events they attend and report out at each
+regular Board meeting. Events/Activities include but are not limited to the following:
+
+   * Community/Civic Events
+    
+   * District/Campus Events
+    
+   * Education Foundation Events
+    
+   * Events/Meetings with District Partners and Collaborators
+
+### Advocacy with State Legislators:
+
+#### Legislative Year:
+
+   * Each December, prior to the beginning of the Legislative     Session, the Board President and Superintendent will develop an    overview letter for all representatives.
+      
+   * Trustees and the Superintendent will schedule visits to the    state capital in February (TASA/TASB Legislative Conference),     April and May. Board members will report out at the next regular     Board meeting.
+
+####  Non-Legislative Year:
+
+   * The Board of Trustees will encourage participation at TASB Grassroots Meetings. Participating Trustees will report out at the next regular Board meeting on issues of importance that were discussed.
+      
+   * SCUC will host a workshop/working lunch during the summer months of even-numbered years in order for state legislators to meet with Trustees and Senior Leaders, to prepare for the upcoming legislative session.
+
+####  Each School Year:
+
+ * SCUC State legislators will be invited to schedule a visit to   the district to tour one or more
+  campuses.
+  
+ * SCUC State legislators will be invited to participate in the official coin toss of a home football
+game.
+
+### Advocacy with other elected officials:
+
+Individual Trustees will attend Board/council meetings of other Governmental entities and report out at regular monthly Board meetings.
+
+ * Guadalupe County Commissioners Court
+  
+ * City of Schertz
+  
+ * City of Cibolo
+  
+ * City of Universal City
+  
+ * City of Selma
+  
+## REVIEW AND MEASUREMENT OF BOARD ADVOCACY – DISCUSS THE SUCCESS
+  
+Annually, at the regular September Board meeting, Trustees will discuss the success of Board Advocacy through review and measurement of the Advocacy Action Plan.
+  
+ * Measurement will be based on completion of tasks outlined in   the action plan – “what we did” not “how
+  we did.”
+  
+ * Suggestions for refinement/revision of the action plan will be   discussed and will be brought back to the Board for review and   approval.
+  
