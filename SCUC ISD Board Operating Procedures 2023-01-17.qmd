@@ -25,21 +25,19 @@ format:
   #  code-link: true
   #
   #
-  # pdf:
-  #   latex_engine: xelatex
-  #   fig_caption: true
-  #   colorlinks: true
-  #   documentclass: scrreprt
-  #   papersize: letter
-  #   toc: true
-  #   mainfont: "Georgia"
-  #   fontsize: 16pt
-  #   includes:
-  #     in_header: latex/preamble.tex
-  #     before_body: latex/before_body.tex
-  #     after_body: latex/after_body.tex
-  #   include-in-header:
-  #     - file: dsheader.tex
+  pdf:
+    latex_engine: xelatex
+    fig_caption: true
+    colorlinks: true
+    documentclass: scrreprt
+    papersize: letter
+    toc: true
+    mainfont: "Georgia"
+    fontsize: 16pt
+    includes:
+      in_header: latex/preamble.tex
+      before_body: latex/before_body.tex
+      after_body: latex/after_body.tex
   #
   #
 # revealjs:
@@ -54,14 +52,19 @@ format:
   #   code-block-height: 650px
   #
   #
-  docx:
-    highlight-style: github
-    fig_caption: true
+  # docx:
+  #   highlight-style: github
+  #   fig_caption: true
   #
   #
   # typst:
+  #   toc: true
+  #   font: "Georgia"
+  #   fontsize: "16pt"
   #   output-file: typst
   #   output-ext: pdf
+#
+#
 css:
   - "swart-20240104.css"
   - "tachyons.min.css"
@@ -115,7 +118,9 @@ to, curriculum, budget, school year calendar, attendance zone realignment and fa
 It is the expectation of the Board that participative, process-driven decision-making should flow through the
 organization at each level as appropriate.
 
+
 ## GOOD GOVERNANCE SELF CHECK
+
 
 On an annual basis and in conjunction with Team of 8 training, the Board of Trustees will conduct a Good
 Governance Self Check of the Board’s operation during the past year. Based upon data collected during the past
