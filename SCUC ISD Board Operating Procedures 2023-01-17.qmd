@@ -12,7 +12,7 @@ format:
   #  theme:
   #   - swart.scss
   #   - zephyr
-  #  mainfont: "Trebuchet"
+  #  mainfont: "Noto Sans"
   #  fontsize: 18pt
   #  includes:
   #     in_header: header.html
@@ -32,8 +32,8 @@ format:
     documentclass: scrreprt
     papersize: letter
     toc: true
-    mainfont: "Georgia"
-    fontsize: 16pt
+    mainfont: "Noto Sans"
+    fontsize: 14pt
     includes:
       in_header: latex/preamble.tex
       before_body: latex/before_body.tex
@@ -59,7 +59,7 @@ format:
   #
   # typst:
   #   toc: true
-  #   font: "Georgia"
+  #   font: "Noto Sans"
   #   fontsize: "16pt"
   #   output-file: typst
   #   output-ext: pdf
